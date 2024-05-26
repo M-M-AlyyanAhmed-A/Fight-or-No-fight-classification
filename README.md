@@ -38,8 +38,11 @@ The classifier is evaluated on the test set, and performance metrics are calcula
 
 # Results
 **Accuracy:** The overall accuracy of the model in classifying fight and noFight scenes.
+
 **Precision:** The precision of the fight scene detection.
+
 **Recall:** The recall of the fight scene detection.
+
 **F1 Score:** The F1 score of the fight scene detection.
 
 # Usage
